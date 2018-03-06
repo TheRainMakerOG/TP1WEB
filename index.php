@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Exercice 4</title>
+	<title>TP1</title>
 </head>
 	<body>
 		<?php require("./router.php"); ?>
